@@ -46,8 +46,14 @@
 		AD7631C722FC5E7D00C6E71B = {
 			isa = PBXGroup;
 			children = (
-				AD7631EE22FC656600C6E71B /* README.md */,
 				AD7631D222FC5E7E00C6E71B /* Destini-iOS13 */,
+				AD7631D322FC5E7E00C6E71B /* AppDelegate.swift */,
+				AD7631E722FC64A100C6E71B /* Controller */,
+				AD7631D522FC5E7E00C6E71B /* SceneDelegate.swift */,
+				AD7631E922FC64C100C6E71B /* Story.swift */,
+				AD7631E822FC64AB00C6E71B /* View */,
+				AD7631EB22FC64C900C6E71B /* Model */,
+				AD7631EE22FC656600C6E71B /* README.md */,
 				AD7631D122FC5E7E00C6E71B /* Products */,
 			);
 			sourceTree = "<group>";
@@ -63,11 +69,6 @@
 		AD7631D222FC5E7E00C6E71B /* Destini-iOS13 */ = {
 			isa = PBXGroup;
 			children = (
-				AD7631D322FC5E7E00C6E71B /* AppDelegate.swift */,
-				AD7631D522FC5E7E00C6E71B /* SceneDelegate.swift */,
-				AD7631EB22FC64C900C6E71B /* Model */,
-				AD7631E822FC64AB00C6E71B /* View */,
-				AD7631E722FC64A100C6E71B /* Controller */,
 				AD7631DC22FC5E8300C6E71B /* Assets.xcassets */,
 				AD7631DE22FC5E8300C6E71B /* LaunchScreen.storyboard */,
 				AD7631E122FC5E8300C6E71B /* Info.plist */,
@@ -94,7 +95,6 @@
 		AD7631EB22FC64C900C6E71B /* Model */ = {
 			isa = PBXGroup;
 			children = (
-				AD7631E922FC64C100C6E71B /* Story.swift */,
 				AD7631EC22FC64E400C6E71B /* StoryBrain.swift */,
 			);
 			path = Model;
