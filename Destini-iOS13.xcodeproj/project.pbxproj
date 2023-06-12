@@ -48,11 +48,10 @@
 			children = (
 				AD7631D222FC5E7E00C6E71B /* Destini-iOS13 */,
 				AD7631D322FC5E7E00C6E71B /* AppDelegate.swift */,
-				AD7631E722FC64A100C6E71B /* Controller */,
 				AD7631D522FC5E7E00C6E71B /* SceneDelegate.swift */,
-				AD7631E922FC64C100C6E71B /* Story.swift */,
-				AD7631E822FC64AB00C6E71B /* View */,
 				AD7631EB22FC64C900C6E71B /* Model */,
+				AD7631E822FC64AB00C6E71B /* View */,
+				AD7631E722FC64A100C6E71B /* Controller */,
 				AD7631EE22FC656600C6E71B /* README.md */,
 				AD7631D122FC5E7E00C6E71B /* Products */,
 			);
@@ -96,6 +95,7 @@
 			isa = PBXGroup;
 			children = (
 				AD7631EC22FC64E400C6E71B /* StoryBrain.swift */,
+				AD7631E922FC64C100C6E71B /* Story.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
